@@ -1,0 +1,145 @@
+Country,Year,AvgTemp,Rainfall
+Benin,2015,27.5,1200
+Benin,2016,27.6,1250
+Benin,2017,27.7,1230
+Benin,2018,27.8,1220
+Benin,2019,28.0,1210
+Benin,2020,28.1,1240
+Benin,2021,28.2,1260
+Benin,2022,28.3,1270
+Benin,2023,28.4,1280
+Burkina Faso,2015,28.5,900
+Burkina Faso,2016,28.6,880
+Burkina Faso,2017,28.7,860
+Burkina Faso,2018,28.8,870
+Burkina Faso,2019,29.0,880
+Burkina Faso,2020,29.1,890
+Burkina Faso,2021,29.2,900
+Burkina Faso,2022,29.3,910
+Burkina Faso,2023,29.4,920
+Cabo Verde,2015,25.0,350
+Cabo Verde,2016,25.1,360
+Cabo Verde,2017,25.1,355
+Cabo Verde,2018,25.2,360
+Cabo Verde,2019,25.3,365
+Cabo Verde,2020,25.4,370
+Cabo Verde,2021,25.5,375
+Cabo Verde,2022,25.6,380
+Cabo Verde,2023,25.7,385
+Côte d’Ivoire,2015,27.0,1500
+Côte d’Ivoire,2016,27.1,1480
+Côte d’Ivoire,2017,27.2,1470
+Côte d’Ivoire,2018,27.3,1460
+Côte d’Ivoire,2019,27.4,1450
+Côte d’Ivoire,2020,27.5,1460
+Côte d’Ivoire,2021,27.6,1470
+Côte d’Ivoire,2022,27.7,1480
+Côte d’Ivoire,2023,27.8,1490
+Gambia,2015,26.5,1100
+Gambia,2016,26.6,1120
+Gambia,2017,26.6,1110
+Gambia,2018,26.7,1120
+Gambia,2019,26.8,1130
+Gambia,2020,26.9,1140
+Gambia,2021,27.0,1150
+Gambia,2022,27.1,1160
+Gambia,2023,27.2,1170
+Ghana,2015,27.0,1200
+Ghana,2016,27.1,1210
+Ghana,2017,27.2,1220
+Ghana,2018,27.3,1230
+Ghana,2019,27.4,1240
+Ghana,2020,27.5,1250
+Ghana,2021,27.6,1260
+Ghana,2022,27.7,1270
+Ghana,2023,27.8,1280
+Guinea,2015,26.5,1300
+Guinea,2016,26.6,1310
+Guinea,2017,26.7,1320
+Guinea,2018,26.8,1330
+Guinea,2019,26.9,1340
+Guinea,2020,27.0,1350
+Guinea,2021,27.1,1360
+Guinea,2022,27.2,1370
+Guinea,2023,27.3,1380
+Guinea-Bissau,2015,27.0,1200
+Guinea-Bissau,2016,27.1,1210
+Guinea-Bissau,2017,27.2,1220
+Guinea-Bissau,2018,27.3,1230
+Guinea-Bissau,2019,27.4,1240
+Guinea-Bissau,2020,27.5,1250
+Guinea-Bissau,2021,27.6,1260
+Guinea-Bissau,2022,27.7,1270
+Guinea-Bissau,2023,27.8,1280
+Liberia,2015,26.5,1300
+Liberia,2016,26.6,1310
+Liberia,2017,26.7,1320
+Liberia,2018,26.8,1330
+Liberia,2019,26.9,1340
+Liberia,2020,27.0,1350
+Liberia,2021,27.1,1360
+Liberia,2022,27.2,1370
+Liberia,2023,27.3,1380
+Mali,2015,29.0,800
+Mali,2016,29.1,820
+Mali,2017,29.2,840
+Mali,2018,29.3,860
+Mali,2019,29.4,880
+Mali,2020,29.5,900
+Mali,2021,29.6,920
+Mali,2022,29.7,940
+Mali,2023,29.8,960
+Niger,2015,29.5,600
+Niger,2016,29.6,620
+Niger,2017,29.7,640
+Niger,2018,29.8,660
+Niger,2019,29.9,680
+Niger,2020,30.0,700
+Niger,2021,30.1,720
+Niger,2022,30.2,740
+Niger,2023,30.3,760
+Nigeria,2015,27.0,1200
+Nigeria,2016,27.1,1210
+Nigeria,2017,27.2,1220
+Nigeria,2018,27.3,1230
+Nigeria,2019,27.4,1240
+Nigeria,2020,27.5,1250
+Nigeria,2021,27.6,1260
+Nigeria,2022,27.7,1270
+Nigeria,2023,27.8,1280
+Senegal,2015,27.0,1100
+Senegal,2016,27.1,1110
+Senegal,2017,27.2,1120
+Senegal,2018,27.3,1130
+Senegal,2019,27.4,1140
+Senegal,2020,27.5,1150
+Senegal,2021,27.6,1160
+Senegal,2022,27.7,1170
+Senegal,2023,27.8,1180
+Sierra Leone,2015,26.0,1500
+Sierra Leone,2016,26.1,1510
+Sierra Leone,2017,26.2,1520
+Sierra Leone,2018,26.3,1530
+Sierra Leone,2019,26.4,1540
+Sierra Leone,2020,26.5,1550
+Sierra Leone,2021,26.6,1560
+Sierra Leone,2022,26.7,1570
+Sierra Leone,2023,26.8,1580
+Togo,2015,27.0,700
+Togo,2016,27.1,710
+Togo,2017,27.2,720
+Togo,2018,27.3,730
+Togo,2019,27.4,740
+Togo,2020,27.5,750
+Togo,2021,27.6,760
+Togo,2022,27.7,770
+Togo,2023,27.8,780
+Mauritania,2015,28.0,400
+Mauritania,2016,28.1,410
+Mauritania,2017,28.2,420
+Mauritania,2018,28.3,430
+Mauritania,2019,28.4,440
+Mauritania,2020,28.5,450
+Mauritania,2021,28.6,460
+Mauritania,2022,28.7,470
+Mauritania,2023,28.8,480

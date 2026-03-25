@@ -1,0 +1,33 @@
+Country,Year,Predicted_ConflictEvents
+Benin,2024,17
+Burkina Faso,2024,560
+Cabo Verde,2024,4
+Côte d’Ivoire,2024,44
+Gambia,2024,2
+Ghana,2024,11
+Guinea,2024,17
+Guinea-Bissau,2024,2
+Liberia,2024,4
+Mali,2024,478
+Niger,2024,138
+Nigeria,2024,424
+Senegal,2024,10
+Sierra Leone,2024,5
+Togo,2024,8
+Mauritania,2024,6
+Benin,2027,137
+Burkina Faso,2027,556
+Cabo Verde,2027,4
+Côte d’Ivoire,2027,94
+Gambia,2027,3
+Ghana,2027,80
+Guinea,2027,17
+Guinea-Bissau,2027,66
+Liberia,2027,5
+Mali,2027,492
+Niger,2027,160
+Nigeria,2027,428
+Senegal,2027,90
+Sierra Leone,2027,8
+Togo,2027,39
+Mauritania,2027,103
