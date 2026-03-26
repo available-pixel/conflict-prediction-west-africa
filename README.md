@@ -98,10 +98,9 @@ pip install -r requirements.txt
 4. Run the app:
 
 streamlit run app.py
-```bash
+```
 
 ---
-
 
 ### 🔹 Future Improvements
 
