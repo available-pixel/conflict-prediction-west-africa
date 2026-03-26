@@ -121,8 +121,9 @@ This project is open-source. Feel free to use it for educational or research pur
 
 Fadil Owolara ADELABOU
 
-GitHub: available-pixel
-Streamlit App: Live Dashboard
+References / Links
+GitHub Repository: https://github.com/available-pixel/conflict-prediction-west-africa
+Streamlit App (Live Dashboard): https://conflict-prediction-west-africa-ade-fadil.streamlit.app/
 
 ---
 
