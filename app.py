@@ -5,6 +5,13 @@ import joblib
 import matplotlib.pyplot as plt
 import plotly.express as px
 
+# -----------------------------
+# Page config
+# -----------------------------
+st.set_page_config(page_title="AI Conflict Prediction", layout="wide")
+st.title("🌍 AI-Powered Conflict Prediction in West Africa")
+
+
 # Custom CSS for background color/gradient
 st.markdown(
     """
@@ -23,12 +30,6 @@ st.markdown(
 model = joblib.load("data/processed/rf_conflict_model.pkl")
 predictions = pd.read_csv("data/processed/predicted_conflict_events.csv")
 dataset = pd.read_csv("data/processed/conflict_dataset.csv")
-
-# -----------------------------
-# Page config
-# -----------------------------
-st.set_page_config(page_title="AI Conflict Prediction", layout="wide")
-st.title("🌍 AI-Powered Conflict Prediction in West Africa")
 
 # -----------------------------
 # Sidebar
