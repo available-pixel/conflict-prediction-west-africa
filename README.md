@@ -4,27 +4,41 @@
 
 ## 🔹 Project Overview
 
-This project predicts **conflict events in West African countries** using **climate, socio-economic, and population data**. It leverages **machine learning** to help policymakers, researchers, and humanitarian organizations understand potential risks and plan interventions.
+This project predicts **conflict events in West African countries** using **climate, socio-economic, and population data**. It leverages **machine learning** to provide insights for policymakers, researchers, and humanitarian organizations about potential conflict risks.
 
 The predictions include both **2024 and 2027 conflict estimates**, giving a short-term and medium-term view of political instability in the region.
 
-**Live App:** [Click here to view the dashboard](https://conflict-prediction-west-africa-ade-fadil.streamlit.app/)
+**Live Dashboard:** [Click here to view](https://conflict-prediction-west-africa-ade-fadil.streamlit.app/)
+
+**Research PDF:** [Conflict Prediction Research](Conflict_Prediction_Research.pdf)
 
 ---
 
 ## 🔹 Why This Project Matters
 
-Conflicts in West Africa affect millions of people and hinder development. By combining **climate data (temperature, rainfall)** with **economic and social indicators (GDP, unemployment, poverty)**, this dashboard provides actionable insights to:
+Conflicts in West Africa affect millions of people and hinder economic and social development. By combining **climate data (temperature, rainfall)** with **economic and social indicators (GDP, unemployment, poverty)**, this dashboard provides actionable insights to:
 
-- Anticipate areas at higher risk of conflict  
-- Support humanitarian planning  
+- Anticipate high-risk regions for conflicts  
+- Support humanitarian planning and resource allocation  
 - Inform research on conflict trends  
 
 ---
 
-## 🔹 Data Sources
+## 🔹 Timeline of Key Conflict Events
 
-The project uses **real and publicly available datasets**:
+| Year      | Event / Prediction |
+|-----------|------------------|
+| 2015      | Significant unrest in Nigeria and Mali |
+| 2016–2017 | Rising conflicts in Burkina Faso |
+| 2018      | Escalation in northern Niger |
+| 2019–2020 | Conflict spreads in Côte d’Ivoire and Ghana |
+| 2021–2023 | Peaks in regional instability |
+| 2024      | Model predicts high conflict in Burkina Faso, Nigeria |
+| 2027      | Predicted trends indicate increasing risks in Togo and Mauritania |
+
+---
+
+## 🔹 Data Sources
 
 | Type                    | Source |
 |-------------------------|--------|
@@ -43,8 +57,8 @@ We use a **Random Forest Regressor** to predict conflict events.
 ### Key Points:
 
 - Predicts the **number of conflict events** per country per year  
-- Uses features like: `Population`, `Unemployment`, `AvgTemp`, `GDP`, `Rainfall`, `PovertyRate`  
-- Achieves high accuracy with **R² ≈ 0.94**, **MAE ≈ 4.8**, **RMSE ≈ 7.7**  
+- Features used: `Population`, `Unemployment`, `AvgTemp`, `GDP`, `Rainfall`, `PovertyRate`  
+- Model accuracy: **R² ≈ 0.94**, **MAE ≈ 4.8**, **RMSE ≈ 7.7**  
 - Generates **predictions for 2024 and 2027**  
 
 ### Feature Importance:
@@ -74,6 +88,19 @@ We use a **Random Forest Regressor** to predict conflict events.
 | Nigeria        | 2027 | 428                      |
 
 > Full predictions are saved in `data/processed/predicted_conflict_events.csv`.
+
+---
+
+## 🔹 Dashboard Screenshots
+
+**Dashboard Overview**  
+![Dashboard Overview](images/dashboard_overview.png)
+
+**Custom Prediction**  
+![Custom Prediction](images/custom_prediction.png)
+
+**Conflict Map Intensity**  
+![Conflict Map](images/conflict_map.png)
 
 ---
 
@@ -121,15 +148,8 @@ This project is open-source. Feel free to use it for educational or research pur
 
 Fadil Owolara ADELABOU
 
-References / Links
-- GitHub Repository: https://github.com/available-pixel/conflict-prediction-west-africa
-- Streamlit App (Live Dashboard): https://conflict-prediction-west-africa-ade-fadil.streamlit.app/
+GitHub Repository: available-pixel/conflict-prediction-west-africa
+Streamlit App: Live Dashboard
+Research PDF: Conflict Prediction Research
 
 ---
-
-This **README.md**:
-
-- Uses **plain English** for clarity  
-- Explains **why your project matters**  
-- Includes **data, model, predictions, folder structure, and deployment instructions**  
-- Looks professional for **scholarship reviewers**  
