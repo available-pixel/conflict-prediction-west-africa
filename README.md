@@ -122,8 +122,8 @@ This project is open-source. Feel free to use it for educational or research pur
 Fadil Owolara ADELABOU
 
 References / Links
-GitHub Repository: https://github.com/available-pixel/conflict-prediction-west-africa
-Streamlit App (Live Dashboard): https://conflict-prediction-west-africa-ade-fadil.streamlit.app/
+- GitHub Repository: https://github.com/available-pixel/conflict-prediction-west-africa
+- Streamlit App (Live Dashboard): https://conflict-prediction-west-africa-ade-fadil.streamlit.app/
 
 ---
 
@@ -133,5 +133,3 @@ This **README.md**:
 - Explains **why your project matters**  
 - Includes **data, model, predictions, folder structure, and deployment instructions**  
 - Looks professional for **scholarship reviewers**  
-
-## 🔹 Folder Structure
