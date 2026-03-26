@@ -98,10 +98,12 @@ pip install -r requirements.txt
 4. Run the app:
 
 streamlit run app.py
+```bash
 
 ---
 
-## 🔹 Future Improvements
+
+### 🔹 Future Improvements
 
 - Add interactive maps for conflict hotspots
 - Include additional socio-economic features (education, health indicators)
