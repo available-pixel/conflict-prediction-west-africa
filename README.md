@@ -2,15 +2,34 @@
 
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://conflict-prediction-west-africa-ade-fadil.streamlit.app/)
 
+---
+
 ## 🔹 Project Overview
 
 This project predicts **conflict events in West African countries** using **climate, socio-economic, and population data**. It leverages **machine learning** to provide insights for policymakers, researchers, and humanitarian organizations about potential conflict risks.
 
 The predictions include both **2024 and 2027 conflict estimates**, giving a short-term and medium-term view of political instability in the region.
 
-**Live Dashboard:** [Click here to view](https://conflict-prediction-west-africa-ade-fadil.streamlit.app/)
+🔗 **Live Dashboard:**  
+https://conflict-prediction-west-africa-ade-fadil.streamlit.app/
 
-**Research PDF:** [Conflict Prediction Research](Conflict_Prediction_Research.pdf)
+---
+
+## 🔹 Research Publication
+
+This project is supported by a published research paper:
+
+📄 **Title:** Predicting Conflict Events in West Africa Using Climate, Socio-Economic, and Population Data  
+
+🔗 **DOI:** https://doi.org/10.5281/zenodo.19237590  
+
+🧑‍🔬 **Author:** Fadil Owolara ADELABOU  
+🆔 **ORCID:** https://orcid.org/0009-0008-0210-6833  
+
+📂 **Full Paper (PDF):**  
+[Download Research PDF](Conflict_Prediction_Research.pdf)
+
+This publication presents a machine learning approach using a **Random Forest model** to predict conflict events by combining climate and socio-economic indicators.
 
 ---
 
@@ -106,24 +125,15 @@ We use a **Random Forest Regressor** to predict conflict events.
 
 ## 🔹 How to Run Locally
 
-1. Clone the repo:
-
 ```bash
 git clone https://github.com/available-pixel/conflict-prediction-west-africa.git
 cd conflict-prediction-west-africa
-
-2. Create a virtual environment:
 
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 
-3. Install dependencies:
-
 pip install -r requirements.txt
-
-4. Run the app:
-
 streamlit run app.py
 ```
 
@@ -148,8 +158,9 @@ This project is open-source. Feel free to use it for educational or research pur
 
 Fadil Owolara ADELABOU
 
-- GitHub Repository: [available-pixel/conflict-prediction-west-africa](https://github.com/available-pixel/conflict-prediction-west-africa)
-- Streamlit App: [Live Dashboard](https://conflict-prediction-west-africa-ade-fadil.streamlit.app/)
-- Research PDF: [Conflict Prediction Research](Conflict_Prediction_Research.pdf)
+- GitHub: https://github.com/available-pixel/conflict-prediction-west-africa
+- Streamlit App: https://conflict-prediction-west-africa-ade-fadil.streamlit.app/
+- DOI: https://doi.org/10.5281/zenodo.19237590
+- ORCID: https://orcid.org/0009-0008-0210-6833
 
 ---
